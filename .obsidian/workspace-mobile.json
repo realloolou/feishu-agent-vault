@@ -35,10 +35,24 @@
             "id": "ffb11d16e25821ac",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "dbskill/README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "README"
             }
           }
         ],
@@ -133,7 +147,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "random/连接Agent管理Obsidian指南.md",
+            "file": "dbskill/README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -203,6 +217,8 @@
   },
   "active": "ffb11d16e25821ac",
   "lastOpenFiles": [
+    "dbskill/demo.gif",
+    "随便记 2.md",
     "random/连接Agent管理Obsidian指南.md",
     "随便记.md",
     "项目/IP/内容产出/内容生产流程 1.md",
