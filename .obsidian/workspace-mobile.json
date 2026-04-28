@@ -35,24 +35,10 @@
             "id": "ffb11d16e25821ac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "suibianji.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "suibianji"
+              "title": "新标签页"
             }
           }
         ],
@@ -218,7 +204,7 @@
   "active": "ffb11d16e25821ac",
   "lastOpenFiles": [
     "random/连接Agent管理Obsidian指南.md",
-    "suibianji.md",
+    "随便记.md",
     "项目/IP/内容产出/内容生产流程 1.md",
     "test 1.md",
     "未命名",
