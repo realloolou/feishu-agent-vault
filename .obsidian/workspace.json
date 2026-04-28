@@ -1,0 +1,272 @@
+{
+  "main": {
+    "id": "900d067e98dc63cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "79fe94f1e422acfe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94df76ae3a435b9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "项目/IP/内容产出/内容生产流程 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "内容生产流程 1"
+            }
+          },
+          {
+            "id": "66f56588925f1b59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知识库/爆款内容框架库.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "爆款内容框架库"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a423352a0fc8a16e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffa72b9615483266",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a6d975dd63e565a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "5660c7ce60b39e8e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path:\"IP/\" ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "1e7ded98608801ae",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b88b3b014bbdee5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f32d2828213b12a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7580c510bebac755",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "项目/IP/内容产出/内容生产流程.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "内容生产流程 的反向链接列表"
+            }
+          },
+          {
+            "id": "56d161e2f13cc8ad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "项目/IP/内容产出/内容生产流程.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "内容生产流程 的出链列表"
+            }
+          },
+          {
+            "id": "e9b5d59f2a2bff39",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "79ae7f33ec249675",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "2d92af74acf96f53",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "知识库/爆款内容框架库.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "爆款内容框架库 的大纲"
+            }
+          },
+          {
+            "id": "9fa9e299d17df60c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "3a6d975dd63e565a",
+  "lastOpenFiles": [
+    "test 1.md",
+    "知识库/爆款内容框架库.md",
+    "未命名",
+    "知识库/Agent提示词库.md",
+    "知识库/书籍.md",
+    "项目/IP/内容产出/内容生产流程 1.md",
+    "项目/IP/内容产出/内容素材管理 1.md",
+    "random/内容生产流程.md",
+    "1.md",
+    "Agent团队分配.md",
+    "知识库提示词.md",
+    "random/内容素材管理.md",
+    "内容框架.md",
+    "知识库",
+    "2026-04-27.md",
+    "未命名.base",
+    "random",
+    "项目",
+    "4.md",
+    "2.md",
+    "3.md",
+    "100_内容素材库.md",
+    "200_Agent团队配置.md",
+    "test",
+    "选题agent.md",
+    "选题agent 2.md",
+    "选题agent 1.md",
+    "().md",
+    "[一：选题（观点生成）]().md",
+    "1..md",
+    "项目/IP/交付产品",
+    "交付产品.md",
+    "IP/未命名.md",
+    "未命名 1/未命名.canvas",
+    "项目/IP/内容产出",
+    "项目/IP"
+  ]
+}
