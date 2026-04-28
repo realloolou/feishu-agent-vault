@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "连接Agent管理Obsidian指南"
             }
+          },
+          {
+            "id": "ffb11d16e25821ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "suibianji.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "suibianji"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,8 +215,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "18559a4eeaaf578c",
+  "active": "ffb11d16e25821ac",
   "lastOpenFiles": [
+    "random/连接Agent管理Obsidian指南.md",
+    "suibianji.md",
     "项目/IP/内容产出/内容生产流程 1.md",
     "test 1.md",
     "未命名",
