@@ -35,24 +35,10 @@
             "id": "66f56588925f1b59",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知识库/爆款内容框架库.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "爆款内容框架库"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ],
@@ -191,13 +177,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识库/爆款内容框架库.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "爆款内容框架库 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -230,11 +215,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3a6d975dd63e565a",
+  "active": "66f56588925f1b59",
   "lastOpenFiles": [
     "random/连接Agent管理Obsidian指南.md",
-    "test 1.md",
     "知识库/爆款内容框架库.md",
+    "test 1.md",
     "未命名",
     "知识库/Agent提示词库.md",
     "知识库/书籍.md",
